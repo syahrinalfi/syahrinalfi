@@ -1,6 +1,6 @@
 # Hi, I'm Alfi 👋
 
-Full-stack developer from Indonesia, Computer Engineering graduate of Telkom University (2025). I build web apps for real organizations, from village enterprises to medical education, mostly with Laravel, Next.js and NestJS. I work with AI coding agents (Claude Code, Codex) and own the requirements, domain logic and QA.
+Full-stack developer from Indonesia, Computer Engineering graduate of Telkom University (2025). I build web apps for real organizations, from village enterprises to medical education, mostly with Laravel, Next.js and NestJS. I work with AI coding agents (Claude Code, Codex, OpenCode) and own the requirements, domain logic and QA.
 
 ## Live projects
 

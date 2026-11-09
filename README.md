@@ -8,7 +8,7 @@ Full-stack developer from Indonesia, Computer Engineering graduate of Telkom Uni
 |---|---|---|---|
 | [**Vitam.Med**](https://vitammed.com/) | Tutoring platform for medical students: study packages, custom tutoring requests, and portals for participants, tutors and staff | Next.js, React, NestJS, Prisma | Built it |
 | [**Disparekraf DKI Jakarta Data Platform**](https://dispar.rantai.dev) ([repo](https://github.com/RantAI-dev/DisparDataPlatform)) | Tourism data platform for Jakarta's Tourism and Creative Economy Office: daily pipelines pull official statistics, spreadsheets and field data into a lakehouse that feeds dashboards | Next.js, Python, Dagster, Apache Iceberg, ClickHouse | Core contributor |
-| **SIMKUG** at [BUMDesma Paguyangan](https://bumdesma-pgy.com/) and [BUMDesma Mentereng LKD](https://www.menterenglkd.com/) | Finance and management system for village-owned enterprises: revolving loans, members, reports and a public website | Laravel | Team developer |
+| **SIMKUG** at [BUMDesma Paguyangan](https://bumdesma-pgy.com/) and [BUMDesma Mentereng LKD](https://www.menterenglkd.com/) | Finance and management system for village-owned enterprises: revolving loans, members, reports and a public website | Laravel | Built the finance systems; co-developed the public sites |
 
 Client code stays private where the client requires it; otherwise the repo is linked.
 
@@ -26,10 +26,12 @@ Client code stays private where the client requires it; otherwise the repo is li
 
 ## Experience
 
+**PT Arase Teknologi Indonesia:** Tenaga Ahli (expert), 2026 – now: a survey analysis platform and learning-analytics microcredential courses for Universitas Terbuka. Previously Chief Technology & Product Officer (2025 – 2026).
+
 **Sariraya, internship (2024):** built internal tools, including bulk QR voucher generation (Flask), automated thank-you cards, and POS login automation (Selenium).
 
 ## Tech
 
-Laravel · PHP · Next.js · React · TypeScript · NestJS · Prisma · Python · Dagster · ClickHouse · Flask · FastAPI · PyTorch · Docker
+Laravel · PHP · Next.js · React · TypeScript · NestJS · Prisma · Python · Dagster · ClickHouse · Flask · FastAPI · PyTorch · Docker · Google Cloud
 
 <!-- Contact: add LinkedIn or a public email here -->
